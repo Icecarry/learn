@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/0309/.idea/0309.iml" filepath="$PROJECT_DIR$/0309/.idea/0309.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04/.idea/day04.iml" filepath="$PROJECT_DIR$/day04/.idea/day04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05/.idea/day05.iml" filepath="$PROJECT_DIR$/day05/.idea/day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06/.idea/day06.iml" filepath="$PROJECT_DIR$/day06/.idea/day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06自习/.idea/day06自习.iml" filepath="$PROJECT_DIR$/day06自习/.idea/day06自习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07/.idea/day07.iml" filepath="$PROJECT_DIR$/day07/.idea/day07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08/.idea/day08.iml" filepath="$PROJECT_DIR$/day08/.idea/day08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09/.idea/day09.iml" filepath="$PROJECT_DIR$/day09/.idea/day09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10/.idea/day10.iml" filepath="$PROJECT_DIR$/day10/.idea/day10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11/.idea/day11.iml" filepath="$PROJECT_DIR$/day11/.idea/day11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12/.idea/day12.iml" filepath="$PROJECT_DIR$/day12/.idea/day12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianxi/.idea/lianxi.iml" filepath="$PROJECT_DIR$/lianxi/.idea/lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python code.iml" filepath="$PROJECT_DIR$/.idea/python code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/python271/.idea/python271.iml" filepath="$PROJECT_DIR$/python271/.idea/python271.iml" />
+      <module fileurl="file://E:/黑马教育/0309/python提高2/代码/sh_python_02/.idea/sh_python_02.iml" filepath="E:/黑马教育/0309/python提高2/代码/sh_python_02/.idea/sh_python_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/.idea/test.iml" filepath="$PROJECT_DIR$/test/.idea/test.iml" />
+      <module fileurl="file://E:/黑马教育/0308/提高day01/代码/.idea/代码.iml" filepath="E:/黑马教育/0308/提高day01/代码/.idea/代码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/复习/.idea/复习.iml" filepath="$PROJECT_DIR$/复习/.idea/复习.iml" />
+      <module fileurl="file://$PROJECT_DIR$/闭包0311/.idea/闭包0311.iml" filepath="$PROJECT_DIR$/闭包0311/.idea/闭包0311.iml" />
+    </modules>
+  </component>
+</project>

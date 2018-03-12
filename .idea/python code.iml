@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.6.3 (D:\python\Python36\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="day04" />
+    <orderEntry type="module" module-name="day05" />
+    <orderEntry type="module" module-name="day06" />
+    <orderEntry type="module" module-name="day06自习" />
+    <orderEntry type="module" module-name="day07" />
+    <orderEntry type="module" module-name="day08" />
+    <orderEntry type="module" module-name="python271" />
+    <orderEntry type="module" module-name="lianxi" />
+    <orderEntry type="module" module-name="day09" />
+    <orderEntry type="module" module-name="day10" />
+    <orderEntry type="module" module-name="day11" />
+    <orderEntry type="module" module-name="day12" />
+    <orderEntry type="module" module-name="复习" />
+    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="代码" />
+    <orderEntry type="module" module-name="sh_python_02" />
+    <orderEntry type="module" module-name="0309" />
+    <orderEntry type="module" module-name="闭包0311" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
